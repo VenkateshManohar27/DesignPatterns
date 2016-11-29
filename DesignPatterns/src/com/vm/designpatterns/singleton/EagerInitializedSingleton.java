@@ -1,4 +1,4 @@
-package com.vm.designpatterns;
+package com.vm.designpatterns.singleton;
 
 public class EagerInitializedSingleton {
 	private static EagerInitializedSingleton singleton = new EagerInitializedSingleton();
